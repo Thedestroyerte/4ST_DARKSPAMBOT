@@ -1,5 +1,5 @@
 build:
   docker:
-    Altron: Dockerfile
+    DARK: Dockerfile
 run:
-  Altron: python3 -m main.py
+  DARK: python3 -m main.py
